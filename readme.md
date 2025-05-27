@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://rushij07.github.io/](https://rushij07.github.io/)
-
 - 💬 Ask me about **ML, AI, Data Science, Git, Data Pipelines**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rushikesh-jadhav01/**
